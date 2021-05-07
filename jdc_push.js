@@ -1,3 +1,6 @@
+/*
+35 6 * * *
+*/
 const $ = new Env("京东云无线宝积分");
 const notify = $.isNode() ? require("./sendNotify") : "";
 
