@@ -1,5 +1,8 @@
 /*
-35 6 * * *
+============Quantumultx===============
+[task_local]
+#j京东云无线宝
+35 6 * * * https://github.com/Evileyespoi/jd/blob/main/jdc_push.js, tag=京东云无线宝,
 */
 const $ = new Env("京东云无线宝积分");
 const notify = $.isNode() ? require("./sendNotify") : "";
