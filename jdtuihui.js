@@ -1,15 +1,3 @@
-/*
-* ==UserScript==
-* @ScriptName        京东店铺会员取消链接导出
-* @Author            Cuttlefish
-* @TgChannel         https://t.me/ddgksf2021
-* @WechatID          墨鱼手记
-* @UpdateTime        20210524
-* @ScriptFunction    导出取消会员的链接，方便在电脑上取消会员，更加快捷
-* @Methods           请手动运行，复制log信息到电脑上取消店铺会员
-* @UpdateLog         0311 [:] 更换个人信息查询的API接口
-* @ScriptURL         https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Jd/jd_cardId_export.js
-* ==/UserScript==
 【QuantumultX】 :
 *************************
 [task_local]
