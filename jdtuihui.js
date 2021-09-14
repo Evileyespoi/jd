@@ -2,7 +2,7 @@
 【QuantumultX】 :
 *************************
 [task_local]
-0 0 * * * https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Jd/jd_cardId_export.js, tag=京东店铺会员取消链接导出
+0 0 * * * https://raw.githubusercontent.com/Evileyespoi/jd/main/jdtuihui.js, tag=京东店铺会员取消链接导出
 *************************
 [mitm]
 hostname = api.m.jd.com
